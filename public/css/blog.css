@@ -1,3 +1,12 @@
+.title-bar {
+	font-family:'Raleway';
+	background-color: white;
+}
+
+.content {
+	font-family:'Open Sans';
+}
+
 .profile_img{
 	border-radius: 100%;
 	border: 1px solid #999999;
