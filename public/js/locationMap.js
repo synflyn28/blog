@@ -21,7 +21,7 @@ function initialize() {
 	var contentString = "<p>Justin Lynn Reid</p>";
 	contentString += "<p>3625 24th Ave. SE Apt. 5</p>";
 	contentString += "<p>Norman, OK 73071</p>";
-	contentString += "<p>Phone: (405)-312-6891</p>";
+	contentString += "<p>Phone: (405)-779-6131</p>";
 	contentString += "<p>Email: jlreid@alumni.unca.edu</p>";
 
 	var infowindow = new google.maps.InfoWindow({
